@@ -36,9 +36,7 @@ Este projeto foi criado com o intuito de reforçar meus estudos em **React**, pr
   
 ---
 
-## link abaixo do projeto
-
-(secret-word-pyczpbj2l-cadusommers-projects.vercel.app)
+## 🚀 [Clique aqui para jogar o Secret Word](https://secret-word-pyczpbj2l-cadusommers-projects.vercel.app)
 
 ---
 
